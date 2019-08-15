@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntercorpChallenge</string>
+    <string name="facebook_app_id">492553838174478</string>
+    <string name="fb_login_protocol_scheme">fb492553838174478</string>
+    <string name="ingresa_con_facebook">Ingresa con facebook</string>
+
+</resources>
